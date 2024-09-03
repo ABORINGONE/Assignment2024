@@ -7,7 +7,7 @@
 
 ## 项目
 
--[Calculator](https://aboringone.github.io/Simple-Calculator/)
+- [Calculator](https://aboringone.github.io/Simple-Calculator/)
 
 ## 项目源代码
 
